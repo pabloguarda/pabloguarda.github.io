@@ -4,8 +4,8 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2024-01-01
-venue: 'Transportation Research Part B: Emerging Technologies'
-paperurl: 'https://doi.org/10.1016/j.trc.2023.104409'
+venue: 'Transportation Research Part B: Methodological'
+paperurl: 'https://doi.org/10.1016/j.trb.2023.102853'
 citation: 'Guarda, P., Qian, S., 2023. Statistical inference of travelers’ route choice preferences with system-level data. Transportation
-Research Part B: Emerging Technologies 179'
+Research Part B: Methodological 179'
 ---
