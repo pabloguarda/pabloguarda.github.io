@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.cl/citations?user=LsH9OncAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6887-5474"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Pablo-Guarda-2"
 
   # Repositories and software development
