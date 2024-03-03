@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: #"Career"
+title: "Career"
 permalink: /career/
 author_profile: true
 redirect_from:
@@ -20,17 +20,23 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style = "text-align:left; margin-top:20px"> Education</h1>
+<h2 style = "text-align:left; margin-top:20px"> Education</h2>
 
-* B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013 (with minor in Social Psychology)
+* B.S. in Industrial Engineering, Pontificia Universidad Católica de Chile, 2013
+  * Minor: Social Psychology
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015 
   * Thesis: What is behind fare evasion in public transport? An econometric approach
   * Supervisors: [Juan de Dios Ortúzar](http://www.ing.uc.cl/cuerpo-docente/ortuzar-juan-de-dios/) and [Patricia Galilea](http://www.ing.uc.cl/cuerpo-docente/galilea-aranda/)
 * M.S. in Cognitive and Decision Sciences, University College London, 2017 
   * Thesis: A psychological approach to understanding decisions about time in public transport. Evidence from lab experiments in London, UK and Santiago, Chile
   * Supervisors: [Nigel Harvey](https://paulaparpart.github.io/), [Paula Parpart](https://www.ucl.ac.uk/pals/research/experimental-psychology/person/paula-parpart/) and [Juan Carlos Muñoz](http://www.ing.uc.cl/cuerpo-docente/munoz-juan-carlos/)
+* M.S. in Machine Learning, Carnegie Mellon University, 2022
+  * Selected Coursework: Machine Learning with Large Datasets, Graduate Artificial Intelligence, Convex Optimization, Intermediate Deep Learning, Deep Reinforcement Learning, Probabilistic Graphical Models
+* PhD in Civil and Environmental Engineering, Carnegie Mellon University, 2023 
+  * Thesis: Inferring demand and supply characteristics of transportation networks through multi-source system-level data
+  * Supervisor: [Sean Qian](https://www.cmu.edu/cee/people/faculty/qian.html)
     
-<h1 style = "text-align:left; margin-top:20px"> Awards</h1>
+<h2 style = "text-align:left; margin-top:20px"> Awards</h2>
 
 * Tata Consultancy Services (TCS) Presidential Fellowship (2021) [[link]](https://www.cmu.edu/cee/news/news-archive/2022/02-2022-guarda-awarded-tcs-presidential-fellowship.html)
 * Becas Chile - Conicyt Master Fellowship (2016) [[link]](http://www.conicyt.cl/becas-conicyt/files/2016/01/4869_2016.pdf)
@@ -44,7 +50,7 @@ redirect_from:
 
 <!-- My academic journey
 ====== -->
-<h1 style = "text-align:left; margin-top:20px"> My academic journey</h1>
+<h2 style = "text-align:left; margin-top:20px"> My academic journey</h2>
 
 <div style="text-align: justify">
 <font size="3">
@@ -54,7 +60,7 @@ I completed a PhD in Transportation Engineering from Carnegie Mellon University 
 </div>
 
 <!-- ## Research experience -->
-<h2 style = "text-align:left; margin-top:20px"> Research experience</h2>
+<h3 style = "text-align:left; margin-top:20px"> Research experience</h3>
 <!-- <div style="text-align: justify"> -->
 <font size="3">
 During the first semester of 2018, I worked as a research assistant for the Bus Rapid Transit Centre of Excellence <a href="http://www.brt.cl/" target="_blank"><span style="text-align:center">(BRT-CoE)</span></a> to extend the research conducted during my M.S. at UCL. Back in 2014, I had been a research assistant at the Bus Rapid Transit Centre of Excellence (BRT-CoE) and at the office of CEDEUS in Santiago, Chile. At CEDEUS, I conducted research on fare evasion in public transport and presented this work in various international conferences. During this period, I was the recipient of the <a href="http://www.thredbo-conference-series.org/michael-beesley/" target="_blank"><span style="text-align:center">Michael Beesley Award</span></a> for my article <a href="https://doi.org/10.1016/j.retrec.2016.06.001" target="_blank"><span style="text-align:center">Decreasing fare evasion without fines? A microeconomic analysis</span></a>, which was later published in the journal <i>Research in Transportation Economics</i>. As a result of my master's thesis work, I previously published the article <a href="https://doi.org/10.1016/j.tra.2015.10.008" target="_blank"><span style="text-align:center">What is behind fare evasion in urban bus systems? An econometric approach</span></a> in <i>Transport Research Part A: Policy and Practice</i>.​ I was always interested in the policy implications of my research on fare evasion and thus, I was actively collaborating in public events and academic workshops held in Santiago, Chile.
@@ -62,7 +68,7 @@ During the first semester of 2018, I worked as a research assistant for the Bus 
 <!-- </div> -->
 <!-- <span style="display: block; margin-top: -40px;"></span> -->
 <!-- ## Teaching experience -->
-<h2 style = "text-align:left; margin-top:20px"> Teaching experience</h2>
+<h3 style = "text-align:left; margin-top:20px"> Teaching experience</h3>
 <div style="text-align: justify">
 <font size="3">
 During my PhD at CMU, I served as teaching assistant for the courses Data Analytics for Engineered Systems (Fall 2019) and Geographic Information Systems (Fall 2020). Before starting my PhD, I worked for one year as a part-time lecturer in the Department of Civil Engineering 
@@ -71,7 +77,7 @@ During my PhD at CMU, I served as teaching assistant for the courses Data Analyt
 </div>
 <!-- <span style="display: block; margin-top: -40px;"></span> -->
 <!-- ## Consulting experience -->
-<h2 style = "text-align:left; margin-top:20px"> Consulting experience</h2>
+<h3 style = "text-align:left; margin-top:20px"> Consulting experience</h3>
 <!--<div style="height:10px;font-size:1px;text-align: justify">&nbsp;</div>-->
 <div style="text-align: justify">
 <font size="3">
@@ -79,9 +85,10 @@ In 2018, I was hired as external consultant for the Inter-American Development B
 </font>
 </div>
 
-<h1 style = "text-align:left; margin-top:20px"> CV</h1>
+<h2 style = "text-align:left; margin-top:20px"> CV</h2>
 
-<!-- To see an updated version of my CV please [click here](https://1drv.ms/b/s!AiDQPVxuDXaiq7IfKo-fwQD5jimkjA) -->
+To download my CV, please [click here](https://raw.githubusercontent.com/pabloguarda/pabloguarda.github.io/master/files/cv_pabloguarda.pdf
+)
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>  -->
