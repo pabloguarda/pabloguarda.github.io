@@ -29,7 +29,7 @@ redirect_from:
   * Selected Coursework: Machine Learning with Large Datasets, Graduate Artificial Intelligence, Convex Optimization, Intermediate Deep Learning, Deep Reinforcement Learning, Probabilistic Graphical Models
 * M.S. in Cognitive and Decision Sciences, University College London, 2017 
   * Thesis: A psychological approach to understanding decisions about time in public transport. Evidence from lab experiments in London, UK and Santiago, Chile
-  * Supervisors: [Nigel Harvey](https://paulaparpart.github.io/), [Paula Parpart](https://www.ucl.ac.uk/pals/research/experimental-psychology/person/paula-parpart/) and [Juan Carlos Muñoz](http://www.ing.uc.cl/cuerpo-docente/munoz-juan-carlos/)
+  * Supervisors: [Nigel Harvey](https://www.ucl.ac.uk/pals/people/nigel-harvey), [Paula Parpart](https://paulaparpart.github.io/) and [Juan Carlos Muñoz](http://www.ing.uc.cl/cuerpo-docente/munoz-juan-carlos/)
 * M.S. in Transportation Engineering, Pontificia Universidad Católica de Chile, 2015 
   * Thesis: What is behind fare evasion in public transport? An econometric approach
   * Supervisors: [Juan de Dios Ortúzar](http://www.ing.uc.cl/cuerpo-docente/ortuzar-juan-de-dios/) and [Patricia Galilea](http://www.ing.uc.cl/cuerpo-docente/galilea-aranda/)
