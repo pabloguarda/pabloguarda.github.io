@@ -52,20 +52,23 @@ redirect_from:
 ====== -->
 <h2 style = "text-align:left; margin-top:20px"> My academic journey</h2>
 
-<div style="text-align: justify">
-<font size="3">
+<font size="3.5" style="text-align: justify; display: block;">
 I completed a PhD in Transportation Engineering from Carnegie Mellon University under the supervision of <a href="https://www.cmu.edu/cee/people/faculty/qian.html" target="_blank"><span style="text-align:center">Sean Qian</span></a> in 2023. To contribute to the research efforts of my lab <a href="http://mac.heinz.cmu.edu/" target="_blank"><span style="text-align:center">(MAC)</span></a>, my PhD enhanced traditional transportation network models by leveraging existing behavioral theories to depict travelers' decision-making at the micro level together with machine learning techniques to facilitate the analysis of high dimensional data at the network level. Before starting my PhD, I gained extensive experience in research, teaching and consulting in projects related with data science and transportation.
 <!-- I am passionate about leveraging naturally occurring and experimental data to understand and predict human behavior at micro and macro scales.  -->
-</font>
-</div>
 
 <!-- ## Research experience -->
 <h3 style = "text-align:left; margin-top:20px"> Research experience</h3>
 <!-- <div style="text-align: justify"> -->
-<font size="3">
-During the first semester of 2018, I worked as a research assistant for the Bus Rapid Transit Centre of Excellence <a href="http://www.brt.cl/" target="_blank"><span style="text-align:center">(BRT-CoE)</span></a> to extend the research conducted during my M.S. at UCL. Back in 2014, I had been a research assistant at the Bus Rapid Transit Centre of Excellence (BRT-CoE) and at the office of CEDEUS in Santiago, Chile. At CEDEUS, I conducted research on fare evasion in public transport and presented this work in various international conferences. During this period, I was the recipient of the <a href="https://thredbo-conference-series.org/awards/" target="_blank"><span style="text-align:center">Michael Beesley Award</span></a> for my article <a href="https://doi.org/10.1016/j.retrec.2016.06.001" target="_blank"><span style="text-align:center">Decreasing fare evasion without fines? A microeconomic analysis</span></a>, which was later published in the journal <i>Research in Transportation Economics</i>. As a result of my master's thesis work, I previously published the article <a href="https://doi.org/10.1016/j.tra.2015.10.008" target="_blank"><span style="text-align:center">What is behind fare evasion in urban bus systems? An econometric approach</span></a> in <i>Transport Research Part A: Policy and Practice</i>.​ I was always interested in the policy implications of my research on fare evasion and thus, I was actively collaborating in public events and academic workshops held in Santiago, Chile.
-</font>
-<!-- </div> -->
+<font size="3.5" style="text-align: justify; display: block;">
+
+<p>
+After completing my PhD, I worked for Fujitsu Research of America (FRA) as a Senior Researcher. At FRA, I developed advanced traffic simulation and optimization technologies to enhance the Fujitsu's Social Digital Twin <a href="https://www.youtube.com/watch?v=UZnWku3kECY&ab_channel=FujitsuResearch" target="_blank"><span style="text-align:center">(SDT)</span></a> platform. My core projects leveraged machine learning, network modeling, optimization and computer vision to enhance large-scale, data-driven traffic simulators. I also led a team of data scientists to productionize and extend the traffic simulation technology developed during my PhD. Thanks to multiple collaborations, my time at FRA was very productive in terms of research output and impact. In less than two years, I filed two patents and published a journal article and two conference papers in top venues of the transportation and computer vision fields.
+</p>
+
+Before my PhD, I also gained relevant research experience. During the first semester of 2018, I worked as a research assistant for the Bus Rapid Transit Centre of Excellence <a href="http://www.brt.cl/" target="_blank"><span style="text-align:center">(BRT-CoE)</span></a> to extend the research conducted during my M.S. at UCL. Back in 2014, I had been a research assistant at the Bus Rapid Transit Centre of Excellence (BRT-CoE) and at the office of CEDEUS in Santiago, Chile. At CEDEUS, I conducted research on fare evasion in public transport and presented this work in various international conferences. During this period, I was the recipient of the <a href="https://thredbo-conference-series.org/awards/" target="_blank"><span style="text-align:center">Michael Beesley Award</span></a> for my article <a href="https://doi.org/10.1016/j.retrec.2016.06.001" target="_blank"><span style="text-align:center">Decreasing fare evasion without fines? A microeconomic analysis</span></a>, which was later published in the journal <i>Research in Transportation Economics</i>. As a result of my master's thesis work, I previously published the article <a href="https://doi.org/10.1016/j.tra.2015.10.008" target="_blank"><span style="text-align:center">What is behind fare evasion in urban bus systems? An econometric approach</span></a> in <i>Transport Research Part A: Policy and Practice</i>.​ I was always interested in the policy implications of my research on fare evasion and thus, I was actively collaborating in public events and academic workshops held in Santiago, Chile.
+
+<!-- </font> -->
+</div>
 <!-- <span style="display: block; margin-top: -40px;"></span> -->
 <!-- ## Teaching experience -->
 <h3 style = "text-align:left; margin-top:20px"> Teaching experience</h3>
@@ -85,10 +88,12 @@ In 2018, I was hired as external consultant for the Inter-American Development B
 </font>
 </div>
 
-<h2 style = "text-align:left; margin-top:20px"> CV</h2>
+<h1 style = "text-align:left; margin-top:20px"> CV</h1>
 
-To download my CV, please [click here](https://raw.githubusercontent.com/pabloguarda/pabloguarda.github.io/master/files/cv_pabloguarda.pdf
-)
+<p style="text-align:left;">
+To download my CV, please 
+<a href="https://raw.githubusercontent.com/pabloguarda/pabloguarda.github.io/master/files/cv_pabloguarda.pdf" target="_blank">click here</a>.
+</p>
 
 
 <!-- <iframe src="https://drive.google.com/file/d/1Sqhl0yt6XRriAkr1usdyptCjBAZkK2fh/preview" width="100%" height="100%"></iframe>  -->
