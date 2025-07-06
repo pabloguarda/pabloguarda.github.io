@@ -92,7 +92,7 @@ In 2018, I was hired as external consultant for the Inter-American Development B
 
 <p style="text-align:left;">
 To download my CV, please 
-<a href="https://raw.githubusercontent.com/pabloguarda/pabloguarda.github.io/master/files/cv_pabloguarda.pdf" target="_blank">click here</a>.
+<a href="https://github.com/pabloguarda/pabloguarda.github.io/raw/master/files/cv_pabloguarda.pdf" target="_blank">click here</a>.
 </p>
 
 
