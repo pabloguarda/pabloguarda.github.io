@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pablo_guarda_2025.jpg"
+  avatar           : "pablo_guarda_square_2025.jpg"
   name             : "Pablo Guarda"
   pronouns         : # example: "she/her"  
   bio              : "Scientist"
